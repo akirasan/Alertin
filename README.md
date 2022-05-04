@@ -1,7 +1,10 @@
 # Alertin
+
 **Alertin** es un pequeño dispositivo conectado a tu red, que puedes utilizar parar que te alerte o avise de alguna cosa.
 
 *Alertin* es un derivado del proyecto *Alert-Box*. Es lo mismo, pero con ojitos pegados, que lo hace mas social, achuchable y menos sobrio y frio.
+
+![Alertin](./imagenes/Alertin.jpg)
 
 ## Requisitos:
 
@@ -18,9 +21,14 @@ Estos elementos te permitirán conectar tu **Alertin** a prácticamente cualquie
 
 ## Decoración:
 
-Para decorar *Alertin* solamente te hace falta ponerle la mejor cara, y eso se consiguie con dos ojitos:
+Para decorar *Alertin* solamente te hace falta ponerle la mejor cara, y eso se consiguie con dos ojitos. El resto tu imaginación!!!
 
-![pegatinas](./imagenes/pegatinas.jpg)
+**"Alerta!!!"**
+![Alertin](./imagenes/alertin_ON.jpg)
+
+**"Todo tranquilo,..."**
+![Alertin](./imagenes/alertin_OFF.jpg)
+
 
 ## Diseño 3D
 
